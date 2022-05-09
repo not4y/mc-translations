@@ -95,7 +95,7 @@
     "gui.jei.category.stoneCutter": "Schdeensäsch'n",
     "gui.jei.category.smelting": "Of'nrezebbde",
     "gui.jei.category.smoking": "Räuschorof'nrezebbde",
-    "gui.jei.category.blasting": "Spreng'",
+    "gui.jei.category.blasting": "Hochoof'nrezebbde",
     "gui.jei.category.campfire": "Lachorfeuorrezebbde",
     "gui.jei.category.smelting.experience": "%s EP",
     "gui.jei.category.smelting.time.seconds": "%ss",
@@ -117,5 +117,8 @@
     "config.jei.advanced.comment": "Ärweidorde Gonfiguradschionsoptschoonen, die ändern, wie JEI funktschioniert.",
     "config.jei.advanced.itemBlacklist.comment": "Idems, die ni angezeischt wär'n soll'n. Format: modId[:name[:meta]]. Dor Lisd'nbearbeidungsmodus endfernd und füüscht audomat'sch neue Idems zur Lisde hinzu.",
     "config.jei.advanced.maxRecipeGuiHeight": "Magsimale Rezebbdhöhe dor Benudsoroborfläsche",
-    "jei.message.configured": "Inschdalliere d'n Mod \"Configured\", um dä In-Game Konfiguratschion benutz'n zu könn'"
+    "jei.message.configured": "Inschdalliere d'n Mod \"Configured\", um dä In-Game Konfiguratschion benutz'n zu könn'",
+    "config.jei.mode.editEnabled": "Lisd'nedidiermodus aggdiviern",
+    "config.jei.interface.overlayEnabled": "Idem-Lisde aggdiviern",
+    "gui.jei.editMode.description": "JEI-Lisd'nedidiermodus:"
 }
